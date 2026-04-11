@@ -1,5 +1,7 @@
 # askSPC — South Park Commons for Claude Code
 
+> Community-created plugin by an SPC member. Not officially affiliated with or endorsed by South Park Commons.
+
 A Claude Code plugin that brings the perspectives of South Park Commons partners into your terminal. Ask any question about building, exploring, scaling, or investing and get routed to the most relevant voices.
 
 ## Install
