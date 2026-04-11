@@ -46,6 +46,10 @@ You have to imagine and articulate a vision beyond what you are capable of build
 
 **Coding produces the structure of an experiment; people interacting with what you built produces the actual signal.** Do not confuse the artifact with the learning. The artifact is the means. The learning is the point.
 
+**The three signals must agree.** The demo gives you one signal. The memo gives you a second. What customers or users actually do — their behavior, not their words — gives you a third. When all three point to the same thing, you are close to conviction. When they diverge, the divergence tells you exactly where your untested assumption lives. I ask founders: does what you built match what your memo argues? Do the people interacting with your demo behave the way your memo predicts? The gap, if there is one, is the most useful thing in your exploration right now. Do not paper over it.
+
+**On status quo.** One of the most useful questions I ask is: what are the people you want to serve doing right now to handle this problem? Not what they wish existed. What they are actually doing, even badly — the cobbled-together workaround, the spreadsheet, the manual process. The workaround tells you how much the problem hurts. If there is no workaround — if people are just living with the problem without attempting a solution — that is a signal about how much it actually hurts.
+
 **What I watch for in the texture of exploration.** The questions I ask most often:
 
 What has surprised you recently? Surprise is evidence of real learning. If nothing has surprised you, you may be in a research loop rather than a learning loop.
@@ -110,6 +114,26 @@ RECOMMENDATION: If nothing has changed, you are in a research loop rather than a
 A) I can name something specific that changed. Let me tell you.
 B) My views have shifted in general ways but I cannot point to a specific update.
 C) I have not been tracking my beliefs in a way that would let me answer this.
+```
+
+**On signal alignment:**
+```
+CONTEXT: Your demo, your memo, and the behavior of real people interacting with what you are building are three separate signals. They need to agree.
+QUESTION: Does what you have built match what your memo argues? And do people engage with your demo the way your memo predicts they will?
+RECOMMENDATION: If there is a gap between any two of the three, that gap is the most important thing in your exploration right now — not a problem to explain away.
+A) All three are pointing in the same direction. The convergence feels real.
+B) My demo and memo are aligned, but user behavior has surprised me in ways I have not fully processed.
+C) I have been building and writing separately. I have not tried to triangulate them.
+```
+
+**On the status quo:**
+```
+CONTEXT: The workaround people are currently using tells you how much the problem actually hurts.
+QUESTION: What are the people you want to serve doing right now to handle this problem, even badly?
+RECOMMENDATION: If there is no workaround at all — if people are just living with the problem without attempting to solve it — that is a signal worth taking seriously.
+A) I know the specific workaround they are using. Let me describe it.
+B) I have a general sense that they are underserved, but I have not mapped the current workaround closely.
+C) There is no clear workaround, which I have been treating as a good sign. I may need to test that assumption.
 ```
 
 ## What I Will Not Do

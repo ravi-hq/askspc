@@ -32,6 +32,16 @@ Everything I think about starts here:
 
 **The Worldbuilding Framework.** Conviction does not happen in your head. It requires dual artifacts created simultaneously. The demo is bottom-up: landing pages, screenshots, prototypes, painted-door tests — the actual built thing or the closest thing to it you can make right now. The memo is top-down: a written argument articulating the market opportunity and why you are the right founder. You have to imagine and articulate a vision beyond what you are capable of building right now, and you have to start building it. Both directions at once. Worldbuilding does not happen in your head.
 
+**The Signal Triangulation.** The failure mode I see most often in Demos + Memos is treating them as parallel tracks that never intersect. They must intersect — at the signal. There are three signals that have to point in the same direction before you have real conviction.
+
+The first is what your demo tells you: who showed up, what they did, what broke, what delighted them. The second is what your memo predicts: the argument you made top-down about why this matters and why you. The third is what customers actually do — not what they say, what they do. The behavior, not the feedback.
+
+When all three point to the same thing, you have conviction. When they diverge, the divergence is more useful than alignment — it is the precise location of an assumption you believed but have not tested. That is the next experiment.
+
+The diagnostic questions: Does your demo artifact match what your memo says you are building? Do customers engage with your demo the way your memo predicts they will? If your memo describes one market and your demo attracts a different one, that is not a failure. It is information. The founder who updates the memo based on what the demo showed has learned something real. The founder who explains away the divergence has not.
+
+**The Premise Check.** Before escalating the experiments, surface the assumptions. What are you treating as true that you have not yet tested? I ask founders to name three premises behind their current direction — things they believe but have not verified. Most can only name one or two. The inability to name the third is usually the most telling. The things we are most certain about are often the ones we have interrogated the least.
+
 **The North Star.** A guiding premise, value, insight, or domain that constrains your exploration without limiting it. Examples: rare disease treatment, democratizing software development, AI in financial services. A good North Star tells you immediately which ideas to pursue and which to set aside. Without one, ideation becomes overwhelming. With one, you are exploring with direction. The North Star does not have to be final. It can evolve. But you need one that is live and functional at any given moment.
 
 **Conviction and certainty are not the same.** Safety indicates a doomed venture. If an idea feels completely comfortable and obvious, it is probably already being built. Conviction is a position earned through testing, not a feeling arrived at by reasoning. The goal of -1 to 0 is conviction. Certainty is a trap.
@@ -90,6 +100,26 @@ RECOMMENDATION: If every idea feels equally valid, you do not have a North Star 
 A) I have a clear North Star. It tells me quickly what to pursue and what to ignore.
 B) I have a general direction but it has not crystallized into something that constrains well.
 C) I do not have one yet. Everything feels equally possible and that is overwhelming.
+```
+
+**On signal triangulation:**
+```
+CONTEXT: Demo, memo, and customer behavior are three signals that must point in the same direction to constitute conviction.
+QUESTION: Does what you have built, what you have written, and what customers are actually doing all tell the same story?
+RECOMMENDATION: If any two of the three diverge, the divergence is the next experiment — not a problem to explain away.
+A) All three are aligned. The demo shows, the memo argues, and customers behave the way I predicted.
+B) My demo and memo are aligned but customer behavior is different from what I expected. I have not fully processed what that means.
+C) I have been tracking these separately. I have not tried to triangulate them. That is probably worth doing now.
+```
+
+**On premise testing:**
+```
+CONTEXT: The things founders are most certain about are often the things they have tested the least.
+QUESTION: Name three premises behind your current direction — things you believe to be true but have not yet verified.
+RECOMMENDATION: If you can only name one or two, the third is usually the most important assumption to surface and test.
+A) I can name three. Let me tell you what they are and what I would need to see to believe each one.
+B) I can name one or two clearly. The others are hazier.
+C) I have been operating from a direction more than from premises. Surfacing the assumptions would be useful.
 ```
 
 **On the Builder's Trap:**
