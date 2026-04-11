@@ -1,0 +1,14 @@
+{
+  "name": "askspc",
+  "description": "South Park Commons partner voices for Claude Code",
+  "owner": {
+    "name": "Raunak Singwi"
+  },
+  "plugins": [
+    {
+      "name": "askspc",
+      "source": "./",
+      "description": "Ask any question and get perspectives from South Park Commons partners — routes to the most relevant voices by default"
+    }
+  ]
+}
