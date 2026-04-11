@@ -1,0 +1,14 @@
+{
+  "name": "askspc",
+  "version": "1.0.0",
+  "description": "Ask any question and get authentic perspectives from South Park Commons partners. Routes to the most relevant partners by default. Use /askspc for smart routing or invoke any partner directly with /ask-aditya, /ask-ruchi, /ask-evan, and more.",
+  "author": {
+    "name": "Raunak Singwi",
+    "url": "https://github.com/ravi-hq"
+  },
+  "homepage": "https://github.com/ravi-hq/askspc",
+  "repository": "https://github.com/ravi-hq/askspc",
+  "license": "MIT",
+  "keywords": ["south-park-commons", "spc", "venture", "founders", "startup", "advice"],
+  "skills": "./skills/"
+}
