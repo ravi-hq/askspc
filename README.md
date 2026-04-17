@@ -1,11 +1,17 @@
-# askSPC — South Park Commons for Claude Code
+# askSPC — South Park Commons for AI Agents
 
 > Community-created plugin by an SPC member. Not officially affiliated with or endorsed by South Park Commons.
 
-A Claude Code plugin that brings the perspectives of South Park Commons partners into your terminal. Ask any question about building, exploring, scaling, or investing and get routed to the most relevant voices.
+A plugin that brings the perspectives of South Park Commons partners into your AI agent. Ask any question about building, exploring, scaling, or investing and get routed to the most relevant voices.
 
 ## Install
 
+**Any agent** (Claude Code, Cursor, Copilot, Windsurf, and more):
+```bash
+npx skills add ravi-hq/askspc
+```
+
+**Claude Code only:**
 ```bash
 claude plugin marketplace add ravi-hq/askspc
 claude plugin install askspc@askspc
